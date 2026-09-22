@@ -4,7 +4,7 @@ This is a free, static portfolio site designed for GitHub Pages.
 
 ## Publish it
 
-1. Create a **public** GitHub repository named `iamkhalidcse.github.io`.
+1. Create a **public** GitHub repository named `iamkhalidcse.com`.
 2. Extract the ZIP on your computer. Upload the extracted files and the `assets` folder to the repository's main branch. Do not upload the ZIP itself or put everything inside an extra parent folder.
 3. Keep this structure at the repository root:
 
@@ -17,7 +17,7 @@ This is a free, static portfolio site designed for GitHub Pages.
    ```
 
 4. In the repository, open **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, then **main** and **/(root)**, and save.
-5. After GitHub finishes publishing, the site will be available at `https://iamkhalidcse.github.io`.
+5. After GitHub finishes publishing, the site will be available at `https://iamkhalidcse.com`.
 
 ## Preview and edit
 
